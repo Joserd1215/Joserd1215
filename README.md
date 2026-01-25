@@ -49,16 +49,3 @@ https://tenor.com/es-419/
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joserd1215&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=Joserd1215&theme=radical&hide_border=true)
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Joserd1215&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Joserd1215&icon=6&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
