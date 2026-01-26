@@ -16,8 +16,8 @@ https://tenor.com/es-419/
 </h3>
 <br>
 
-<!-- <img width="20%" src="https://tenor.com/es-419/view/rebrnd-coding-programmer-programming-gif-5486586409214780761.gif" align="right" />
-<img width="30%"  src="https://tenor.com/es-419/view/ngoding-mulu-gif-1747207714643625346.gif" align="right"/>-->
+<!-- <img width="20%" src="https://tenor.com/es-419/view/rebrnd-coding-programmer-programming-gif-5486586409214780761.gif" align="right" />-->
+<img width="30%"  src="https://tenor.com/es-419/view/ngoding-mulu-gif-1747207714643625346.gif" align="right"/>
 
 - 👨🏻‍🎓 Estudiante de la Licenciatura en Informatica en la [UASD](https://www.ua.es/en/index.html)
 - 👨‍💻 Actualmente estoy trabajando en mis propios proyectos.
@@ -48,4 +48,11 @@ https://tenor.com/es-419/
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joserd1215&theme=radical&show_icons=true&hide_border=true&layout=compact)  <p align="left">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joserd1215&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=Joserd1215&theme=radical&hide_border=true)
+
+<a href="https://github.com/Joserd1215/Gestor-de-tarea">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joserd1215&repo=Gestor-de-tarea" />
+</a>
+<a href="https://github.com/Joserd1215/Blog">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joserd1215&repo=Blog" />
+</a>
 
