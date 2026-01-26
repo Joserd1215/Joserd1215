@@ -49,10 +49,6 @@ https://tenor.com/es-419/
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joserd1215&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=Joserd1215&theme=radical&hide_border=true)
 
-<a href="https://github.com/Joserd1215/Gestor-de-tarea">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joserd1215&repo=Gestor-de-tarea" />
-</a>
 <a href="https://github.com/Joserd1215/Blog">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joserd1215&repo=Blog" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joserd1215&show_owner=true&theme=radical&hide_border=true&repo=Blog" />
 </a>
-
