@@ -45,10 +45,10 @@ https://tenor.com/es-419/
 
 ## 📊 GitHub
 <img src="https://komarev.com/ghpvc/?username=joserd1215&label=Profile%20views&color=0e75b6&style=flat" alt="joserd1215" /> </p>
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joserd1215&theme=radical&show_icons=true&hide_border=true&layout=compact)  <p align="left"> -->
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joserd1215&theme=radical&hide_border=true&include_all_commits=true&count_private=true) -->
-<!--![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=Joserd1215&theme=radical&hide_border=true) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joserd1215&theme=radical&show_icons=true&hide_border=true&layout=compact)  <p align="left"> 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joserd1215&theme=radical&hide_border=true&include_all_commits=true&count_private=true) 
+![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=Joserd1215&theme=radical&hide_border=true)
 
-<!-- <a href="https://github.com/Joserd1215/Blog">
+ <a href="https://github.com/Joserd1215/Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joserd1215&show_owner=true&theme=radical&hide_border=true&repo=Blog" />
-</a> -->
+</a> 
