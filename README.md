@@ -19,7 +19,7 @@ https://tenor.com/es-419/
 <!-- <img width="20%" src="https://tenor.com/es-419/view/rebrnd-coding-programmer-programming-gif-5486586409214780761.gif" align="right" />-->
 <img width="30%"  src="https://tenor.com/es-419/view/ngoding-mulu-gif-1747207714643625346.gif" align="right"/>
 
-- 👨🏻‍🎓 Estudiante de la Licenciatura en Informatica en la [UASD](https://www.ua.es/en/index.html)
+- 👨🏻‍🎓 Estudiante de la Licenciatura en Informatica en la [UASD](https://uasd.edu.do/)
 - 👨‍💻 Actualmente estoy trabajando en mis propios proyectos.
 - 📚 Estoy dispuesto ha aprender muchas cosas.
 - 🔎 Busco conocimiento.
